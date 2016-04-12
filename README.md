@@ -1,4 +1,4 @@
-# kibana-formula
+# kibana-formula [![Build Status](https://travis-ci.org/Enrise/kibana-formula.svg?branch=master)](https://travis-ci.org/Enrise/kibana-formula)
 
 This formula will install the latest stable version of Kibana from the official repo.
 
